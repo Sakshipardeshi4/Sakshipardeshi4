@@ -1,4 +1,102 @@
 Hello There! Sakshi Pardeshi here
+
+# Hi 👋 I'm Sakshi Pardeshi
+
+## 🚀 About Me
+
+AWS DevOps Engineer with hands-on experience designing, automating, and managing scalable cloud infrastructure. I specialize in building reliable CI/CD pipelines, containerized deployments, and highly available systems with a strong focus on automation, monitoring, and cost optimization. 
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud Platforms
+
+* AWS (EC2, VPC, S3, ALB, IAM, RDS, DynamoDB, Aurora, SNS, Lambda) 
+
+### ⚙️ DevOps & CI/CD
+
+* Docker, Kubernetes, Jenkins, Terraform, Argo CD, Git, GitHub 
+
+### 📊 Monitoring & Observability
+
+* Prometheus, Grafana, Datadog, CloudWatch 
+
+### 🖥️ OS & Scripting
+
+* Linux
+* Bash / Shell Scripting 
+
+### 🔐 Security & Networking
+
+* SonarQube, Trivy
+* DNS, TCP/IP, HTTP/HTTPS, SSH 
+
+### 👩‍💻 Programming
+
+* Python 
+
+---
+
+## 💼 Experience
+
+**DevOps Engineer**
+*Aug 2025 – Present*
+
+* Supported and maintained CI/CD pipelines using Jenkins and Git
+* Assisted in deploying containerized apps using Docker & Kubernetes
+* Monitored infrastructure and reduced downtime through incident detection
+* Automated operational tasks using scripts
+* Managed AWS infrastructure (EC2, IAM) 
+
+---
+
+## 📂 Projects
+
+### 🔹 Automated GitOps Deployment on AWS
+
+* Designed GitOps-based CI/CD workflow using Argo CD on Kubernetes
+* Built monitoring dashboards with Prometheus & Grafana
+* Achieved 99.9% availability using health checks and auto-healing
+* Troubleshot Linux storage and security group issues 
+
+### 🔹 Orphaned Resource Scanner
+
+* Built serverless solution detecting unused AWS resources
+* Reduced cloud costs by **55%** through automated scanning
+* Used EventBridge, DynamoDB, and SNS alerts 
+
+### 🔹 Dockerized Application Deployment on EKS
+
+* Designed microservices deployment across AWS AZs
+* Implemented rolling updates for zero-downtime releases
+* Secured images via ECR + Kubernetes Secrets
+* Reduced release time by ~40% through automation 
+
+---
+
+## 🎓 Education
+
+* **MCA — Dr. D.Y. Patil College of Management & Research**
+* **BCA — Dr. D.Y. Patil ACS College**
+
+---
+
+## 📜 Certification
+
+* AWS Certified Cloud Practitioner (Jan 2026) 
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [pardeshisakshi4@gmail.com](mailto:pardeshisakshi4@gmail.com)
+* 📍 Location: Pune, India 
+
+---
+
+⭐ *Always eager to learn new technologies, automate processes, and build scalable cloud solutions.*
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-pardeshi-)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshisakshi4@gmail.com) 
 
