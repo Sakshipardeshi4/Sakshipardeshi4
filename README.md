@@ -90,7 +90,7 @@ AWS DevOps Engineer with hands-on experience designing, automating, and managing
 
 ## 📫 Connect With Me
 
-* 📧 Email: [pardeshisakshi4@gmail.com](mailto:pardeshisakshi4@gmail.com)
+* 📧 Email: [sakshihpardeshi@outlook.com](mailto:pardeshisakshi4@gmail.com)
 * 📍 Location: Pune, India 
 
 ---
