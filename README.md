@@ -79,9 +79,9 @@ AWS Certified Cloud Practitioner — *Valid till Jan 2026*
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sakshi-pardeshi-/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/Sakshipardeshi4"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
+<a href="sakshihpardeshi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -100,9 +100,6 @@ To engineer resilient, scalable, and intelligent cloud platforms that minimize m
 ⭐ If you like my work, consider following my repositories!
 </p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-pardeshi-)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshisakshi4@gmail.com) 
 
 
 # 📊 GitHub Stats:
