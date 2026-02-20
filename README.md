@@ -51,19 +51,6 @@ DNS · TCP/IP · HTTP · HTTPS · SSH
 
 ---
 
-## 🏢 Experience
-**DevOps Engineer Intern — Hinsan Labs Pvt Ltd**  
-*Aug 2025 – Present*
-
-- Maintained CI/CD pipelines enabling automated builds and deployments  
-- Assisted Kubernetes-based container deployments  
-- Monitored infrastructure and reduced downtime through incident reporting  
-- Automated operational tasks using scripts  
-- Supported AWS infrastructure operations  
-
-
----
-
 ## 🏆 Certification
 AWS Certified Cloud Practitioner 
 
