@@ -1,4 +1,4 @@
-# 🚀 Sakshi Pardeshi — DevOps | Cloud |
+# 🚀 Sakshi Pardeshi — DevOps | Cloud 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Specialist;CI/CD+Automation+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;Building+Reliable+Scalable+Systems" />
