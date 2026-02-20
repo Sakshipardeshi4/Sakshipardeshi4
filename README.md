@@ -61,19 +61,11 @@ DNS · TCP/IP · HTTP · HTTPS · SSH
 - Automated operational tasks using scripts  
 - Supported AWS infrastructure operations  
 
----
-
-## 🎓 Education
-**Master of Computer Applications — CGPA 9.06**  
-Dr. D.Y. Patil College of Management and Research  
-
-**Bachelor of Computer Applications — CGPA 8.2**  
-Dr. D.Y. Patil ACS College  
 
 ---
 
 ## 🏆 Certification
-AWS Certified Cloud Practitioner — *Valid till Jan 2026*
+AWS Certified Cloud Practitioner 
 
 ---
 
