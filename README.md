@@ -1,101 +1,105 @@
-Hello There! Sakshi Pardeshi here
+# 🚀 Sakshi Pardeshi — DevOps | Cloud |
 
-# Hi 👋 I'm Sakshi Pardeshi
-
-## 🚀 About Me
-
-AWS DevOps Engineer with hands-on experience designing, automating, and managing scalable cloud infrastructure. I specialize in building reliable CI/CD pipelines, containerized deployments, and highly available systems with a strong focus on automation, monitoring, and cost optimization. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Specialist;CI/CD+Automation+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;Building+Reliable+Scalable+Systems" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-### ☁️ Cloud Platforms
-
-* AWS (EC2, VPC, S3, ALB, IAM, RDS, DynamoDB, Aurora, SNS, Lambda) 
-
-### ⚙️ DevOps & CI/CD
-
-* Docker, Kubernetes, Jenkins, Terraform, Argo CD, Git, GitHub 
-
-### 📊 Monitoring & Observability
-
-* Prometheus, Grafana, Datadog, CloudWatch 
-
-### 🖥️ OS & Scripting
-
-* Linux
-* Bash / Shell Scripting 
-
-### 🔐 Security & Networking
-
-* SonarQube, Trivy
-* DNS, TCP/IP, HTTP/HTTPS, SSH 
-
-### 👩‍💻 Programming
-
-* Python 
+## 👩‍💻 About Me
+AWS DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure with a strong focus on reliability, automation, and performance optimization. Proven ability to build production-grade systems, improve availability, and streamline deployments through automation.
 
 ---
 
-## 💼 Experience
+## ⚡ Core Expertise
+- ☁️ Cloud Infrastructure Engineering  
+- 🔁 CI/CD Pipeline Automation  
+- 📦 Containerized Deployments  
+- 📊 Observability & Monitoring  
+- 🔐 Security & Cost Optimization  
+- ⚙️ Infrastructure as Code  
+- 🚀 Zero-Downtime Deployments  
 
-**DevOps Engineer**
+---
+
+## 🧠 Technical Skill Stack
+
+**Cloud Platforms**  
+AWS — EC2, VPC, S3, IAM, RDS, DynamoDB, Aurora, Lambda, SNS  
+
+**DevOps Tools**  
+Docker · Kubernetes · Jenkins · Terraform · Argo CD · Git · GitHub  
+
+**Monitoring**  
+Prometheus · Grafana · Datadog · CloudWatch  
+
+**Systems & Scripting**  
+Linux · Bash · Python  
+
+**Security**
+SonarQube · Trivy  
+
+**Networking**
+DNS · TCP/IP · HTTP · HTTPS · SSH  
+
+---
+
+## 📈 Professional Impact
+- Reduced AWS costs by **55%** through automated resource detection system  
+- Improved deployment reliability and reduced release time by **~40%**  
+- Achieved **99.9% availability** using monitoring + health-checks + auto-healing  
+
+---
+
+## 🏢 Experience
+**DevOps Engineer Intern — Hinsan Labs Pvt Ltd**  
 *Aug 2025 – Present*
 
-* Supported and maintained CI/CD pipelines using Jenkins and Git
-* Assisted in deploying containerized apps using Docker & Kubernetes
-* Monitored infrastructure and reduced downtime through incident detection
-* Automated operational tasks using scripts
-* Managed AWS infrastructure (EC2, IAM) 
-
----
-
-## 📂 Projects
-
-### 🔹 Automated GitOps Deployment on AWS
-
-* Designed GitOps-based CI/CD workflow using Argo CD on Kubernetes
-* Built monitoring dashboards with Prometheus & Grafana
-* Achieved 99.9% availability using health checks and auto-healing
-* Troubleshot Linux storage and security group issues 
-
-### 🔹 Orphaned Resource Scanner
-
-* Built serverless solution detecting unused AWS resources
-* Reduced cloud costs by **55%** through automated scanning
-* Used EventBridge, DynamoDB, and SNS alerts 
-
-### 🔹 Dockerized Application Deployment on EKS
-
-* Designed microservices deployment across AWS AZs
-* Implemented rolling updates for zero-downtime releases
-* Secured images via ECR + Kubernetes Secrets
-* Reduced release time by ~40% through automation 
+- Maintained CI/CD pipelines enabling automated builds and deployments  
+- Assisted Kubernetes-based container deployments  
+- Monitored infrastructure and reduced downtime through incident reporting  
+- Automated operational tasks using scripts  
+- Supported AWS infrastructure operations  
 
 ---
 
 ## 🎓 Education
+**Master of Computer Applications — CGPA 9.06**  
+Dr. D.Y. Patil College of Management and Research  
 
-* **MCA — Dr. D.Y. Patil College of Management & Research**
-* **BCA — Dr. D.Y. Patil ACS College**
-
----
-
-## 📜 Certification
-
-* AWS Certified Cloud Practitioner (Jan 2026) 
+**Bachelor of Computer Applications — CGPA 8.2**  
+Dr. D.Y. Patil ACS College  
 
 ---
 
-## 📫 Connect With Me
-
-* 📧 Email: [sakshihpardeshi@outlook.com](mailto:pardeshisakshi4@gmail.com)
-* 📍 Location: Pune, India 
+## 🏆 Certification
+AWS Certified Cloud Practitioner — *Valid till Jan 2026*
 
 ---
 
-⭐ *Always eager to learn new technologies, automate processes, and build scalable cloud solutions.*
+## 🌐 Connect With Me
+<p align="left">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## ⭐ Philosophy
+> Automate everything. Monitor everything. Improve continuously.
+
+---
+
+## 🧭 Career Vision
+To engineer resilient, scalable, and intelligent cloud platforms that minimize manual effort, maximize performance, and ensure production reliability.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following my repositories!
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-pardeshi-)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardeshisakshi4@gmail.com) 
