@@ -1,13 +1,13 @@
 # 🚀 Sakshi Pardeshi — DevOps | Cloud 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Specialist;CI/CD+Automation+Enthusiast;Kubernetes+%7C+Docker+%7C+Terraform;Building+Reliable+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS DevOps Engineer" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-AWS DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure with a strong focus on reliability, automation, and performance optimization. Proven ability to build production-grade systems, improve availability, and streamline deployments through automation.
+AWS DevOps Engineer with 2+ year in DevOps passionate about designing, automating, and managing scalable cloud infrastructure with a strong focus on reliability, automation, and performance optimization. Proven ability to build production-grade systems, improve availability, and streamline deployments through automation.
 
 ---
 
@@ -25,7 +25,7 @@ AWS DevOps Engineer passionate about designing, automating, and managing scalabl
 ## 🧠 Technical Skill Stack
 
 **Cloud Platforms**  
-AWS — EC2, VPC, S3, IAM, RDS, DynamoDB, Aurora, Lambda, SNS  
+AWS — EC2, VPC, S3, IAM, RDS, DynamoDB, Lambda, SNS  
 
 **DevOps Tools**  
 Docker · Kubernetes · Jenkins · Terraform · Argo CD · Git · GitHub  
@@ -58,15 +58,10 @@ AWS Certified Cloud Practitioner
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/sakshi-pardeshi-/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sakshi-devops-/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/Sakshipardeshi4"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
-<a href="sakshihpardeshi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="sakshipardeshi.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
-
----
-
-## ⭐ Philosophy
-> Automate everything. Monitor everything. Improve continuously.
 
 ---
 
