@@ -1,4 +1,4 @@
-# 🚀 Sakshi Pardeshi — DevOps | Cloud 
+# 🚀 Sakshi Pardeshi 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AWS DevOps Engineer" />
@@ -58,7 +58,7 @@ AWS Certified Cloud Practitioner
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/sakshi-devops-/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sakshi-devops/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/Sakshipardeshi4"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"></a>
 <a href="sakshipardeshi.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
